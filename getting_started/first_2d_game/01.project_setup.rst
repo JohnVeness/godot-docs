@@ -55,7 +55,7 @@ window and in the left column, open the *Display -> Window* tab. There, set
 
 .. image:: img/setting-project-width-and-height.png
 
-Also, scroll down to the bottom of the section and, under the "Stretch" options,
+Also, scroll down to the bottom of the section and, in the "Stretch" section,
 set ``Mode`` to "2d" and ``Aspect`` to "keep". This ensures that the game scales
 consistently on different sized screens.
 

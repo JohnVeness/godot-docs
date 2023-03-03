@@ -17,7 +17,7 @@ a 2D game.
           programming entirely, you should start here: :ref:`doc_scripting`.
 
 The game is called "Dodge the Creeps!". Your character must move and avoid the
-enemies for as long as possible. Here is a preview of the final result:
+enemies for as long as possible.
 
 You will learn to:
 
@@ -45,11 +45,7 @@ Prerequisites
 -------------
 
 This step-by-step tutorial is intended for beginners who followed the complete
-:ref:`Getting Started <toc-learn-step_by_step>`.
-
-If you're an experienced programmer, you can find the complete demo's source
-code here: `Godot demo projects
-<https://github.com/godotengine/godot-demo-projects>`__.
+:ref:`Step by step <toc-learn-step_by_step>` tutorial.
 
 We prepared some game assets you'll need to download so we can jump straight to
 the code.
